@@ -13,7 +13,7 @@ The file starts with a YAML front matter block:
 | `latitude`  | decimal degrees, from the site address                       |
 | `longitude` | decimal degrees, from the site address                       |
 | `deployed`  | go-live date, `YYYY-MM-DD`                                   |
-| `status`    | `planned`, `active` or `retired`                             |
+| `status`    | `planned`, `active` or `retired`; sites that have been commissioned for a signed-off wave are `active`, `planned` is for announced-but-not-yet-commissioned sites |
 | `dataseturl`| link to the site's published dataset repository              |
 
 `dataseturl` is optional: it exists only for sites whose dataset repository is
