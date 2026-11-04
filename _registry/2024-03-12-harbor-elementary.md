@@ -6,6 +6,6 @@ latitude: 33.6522578
 longitude: -117.9186683
 deployed: "2024-03-12"
 status: "active"
-dataseturl: 'https://github.com/knobbyintens/emails-github-google-map-2202-q8v3n1-harbor-elementary-airquality'
+dataseturl: 'https://github.com/orbital-data/harbor-elementary-airquality'
 ---
 Harbor Elementary School was the first school site in the regional monitoring network, tracking outdoor particulate levels during drop-off and pick-up hours.
