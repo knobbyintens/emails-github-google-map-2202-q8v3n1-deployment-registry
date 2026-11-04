@@ -1,0 +1,15 @@
+title: Verdant Sense Deployment Registry
+description: Public map of air-quality monitoring sites
+baseurl: ""
+url: "https://registry.verdantsense.example"
+markdown: kramdown
+collections:
+  registry:
+    output: true
+    permalink: /sites/:name/
+defaults:
+  - scope:
+      path: ""
+      type: registry
+    values:
+      layout: registry
